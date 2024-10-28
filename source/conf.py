@@ -28,3 +28,4 @@ exclude_patterns = []
 # html_theme = 'alabaster'
 html_theme = 'traditional'
 html_static_path = ['_static']
+
