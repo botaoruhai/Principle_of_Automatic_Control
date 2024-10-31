@@ -6,9 +6,8 @@
 Principle of Automatic Control documentation
 ============================================
 
-
-·ÃÎÊ±¾ÏîÄ¿µÄ Github ÍøÖ· : https://github.com/Zhang-Jing-Xuan/Principle_of_Automatic_Control  
-·ÃÎÊ±¾ÏîÄ¿Ê¹ÓÃ Sphinx Óë Read the Docs ×Ô¶¯Éú³ÉµÄÎÄµµÍøÖ· : https://principle-of-automatic-control.readthedocs.io
+è®¿é—®æœ¬é¡¹ç›®çš„ Github ç½‘å€ : https://github.com/botaoruhai/Principle_of_Automatic_Control  
+è®¿é—®æœ¬é¡¹ç›®ä½¿ç”¨ Sphinx ä¸ Read the Docs è‡ªåŠ¨ç”Ÿæˆçš„æ–‡æ¡£ç½‘å€ : https://principle-of-automatic-control.readthedocs.io
 
 .. toctree::
    :maxdepth: 2
